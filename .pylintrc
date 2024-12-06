@@ -1,0 +1,3 @@
+[MASTER]
+max-line-length=140
+ignore=.venv
